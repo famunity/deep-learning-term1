@@ -2,4 +2,4 @@
 Udacity Nanodegree Program - Deep Learning Term 1
 
 ## Agile Board
-https://waffle.io/famunity/deep-learning-term1
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/famunity/deep-learning-term1.svg?columns=all)](http://waffle.io/famunity/deep-learning-term1)
