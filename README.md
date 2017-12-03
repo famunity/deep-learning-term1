@@ -18,3 +18,13 @@ Udacity Nanodegree Program - Deep Learning Term 1
 [概率论：不确定性的科学](http://www.xuetangx.com/courses/course-v1:MITx+6_041x+2017_T2/about)（MIT的经典MOOC，一直以来都是Edx上最热门的课程之一，难度和学习强度也相当之大，但授课水平确实无可挑剔，清晰明了。建议空余时间较多并且愿意挑战自己时选修）；
 
 [陈希孺《概率论与数理统计》](https://book.douban.com/subject/2201479/)（国内比较少见的经典数理统计教材）。
+
+## Part II Programming
+
+[计算机科学导论](https://cn.udacity.com/course/intro-to-computer-science--cs101)：本节课的案例就是出自此课程
+
+[编程语言](https://cn.udacity.com/course/programming-languages--cs262)：会介绍更多关于什么是编程语言的细节
+
+[算法入门](https://cn.udacity.com/course/intro-to-algorithms--cs215)：用数学方法思考什么是编程
+
+[理论计算机科学入门](https://cn.udacity.com/course/intro-to-theoretical-computer-science--cs313)：探讨“为什么困难的问题很难？”这一类的问题
