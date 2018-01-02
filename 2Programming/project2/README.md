@@ -6,8 +6,8 @@ Python 2
 
 ## Startup
 ```python
-cd ~/project2
-
-python entertainment_center.py
+0. open terminal
+1. cd ~/project2
+2. python entertainment_center.py
 ```
 
