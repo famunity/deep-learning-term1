@@ -1,3 +1,7 @@
+```
+docker run -i -t -p 8888:8888 continuumio/anaconda /bin/bash -c "/opt/conda/bin/conda install jupyter -y --quiet && mkdir /opt/notebooks && /opt/conda/bin/jupyter notebook --notebook-dir=/opt/notebooks --ip='*' --port=8888 --no-browser"
+```
+
 # 线性回归项目
 
 欢迎来到线性回归项目，线性代数是很多机器学习算法的基础，在这个项目中，你将不借助任何库，用你之前所学来解决一个线性回归问题。
@@ -36,11 +40,11 @@ Ctrl + Enter 运行即可。
 
 1. `linear_regression_project.ipynb`: 写有你代码及答案的  ipynb 文件
 
-3. `linear_regression_project.html`: 由 Jupyter notebook 导出的 html 文件
+2. `linear_regression_project.html`: 由 Jupyter notebook 导出的 html 文件
 
 3. `linear_regression_project.py`: 由 Jupyter notebook 导出的 python 文件
 
-2. `proof.pdf`: 写有你的证明的 pdf 文件 （如果你在 ipython notebook中使用 LATEX 完成证明，则不需要提交此文件。）
+4. `proof.pdf`: 写有你的证明的 pdf 文件 （如果你在 ipython notebook中使用 LATEX 完成证明，则不需要提交此文件。）
 
 5. 请不要提交其他任何文件。
 

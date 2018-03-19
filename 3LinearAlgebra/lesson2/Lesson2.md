@@ -1,13 +1,4 @@
 
-## 7. Inner Products
-
-v * w = ||v|| * ||w|| * cos0
-v * w = v1 * w1 + v2 * w2 + v3 * w3
-
-Angle 0 = arccos(v * w / ||v|| * ||w||)
-
--1 <= cos0 <= 1
-|v * w| <= ||v|| * ||w||
 
 
 ## Parallel and Orthogonal Vectors
