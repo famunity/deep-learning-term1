@@ -1,10 +1,6 @@
 # deep-learning-term1
 Udacity Nanodegree Program - Deep Learning Term 1
 
-## Agile Board
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/famunity/deep-learning-term1.svg?columns=all)](http://waffle.io/famunity/deep-learning-term1)
-
-
 ## Part I Statistic Foundation
 
 恭喜通过统计学项目！在学习课程和完成项目的过程中，相信你已经掌握了统计学的核心理念和基本的检验方法，已经具备了学习更高级的统计方法的基础。接下来，除了开始第二个项目的学习外，如果你想要更深入地了解统计学，在这里推荐如下学习资源：
